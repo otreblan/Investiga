@@ -1,1 +1,3 @@
 # Investiga
+## Instrucciones
+    make
